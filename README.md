@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=200&section=header&text=Rit%20Mangal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
-<img src="https://github.com/ritmangal.png" width="150" style="border-radius: 50%;" align="right"/>
+
 Hey, I'm Rit Mangal 👋
 
 Software Engineer building ML systems that ship, not just notebooks that run — with a cybersecurity streak.
