@@ -1,10 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=200&section=header&text=Rit%20Mangal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=200&section=header&text=Rit%20Mangal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Cyber%20Security&descAlignY=55&descSize=20&descColor=c0caf5)
+<img src="https://github.com/ritmangal.png" width="150" style="border-radius: 50%;" align="right"/>
 
-Hey, I'm Rit Mangal 👋
-
-Software Engineer building ML systems that ship, not just notebooks that run — with a cybersecurity streak.
-
-I train models that catch things — phishing emails with 90% accuracy, objects in real-time on a Raspberry Pi. I like the part of ML most people skip: making it actually work under real constraints — noisy data, limited compute, latency budgets. Add in a growing interest in system security and threat detection, and you get someone who wants to build things that don't just work, but hold up. Currently hunting for a Software Engineering / ML internship where I can do more of that.
 # 💫 About Me:
 Hey, I'm Rit Mangal 👋<br>Software Engineer building ML systems that ship, not just notebooks that run with a cybersecurity streak.<br>I train models that catch things phishing emails with 90% accuracy, objects in realtime on a Raspberry Pi. I like the part of ML most people skip: making it actually work under real constraints noisy data, limited compute, latency budgets. Add in a growing interest in system security and threat detection, and you get someone who wants to build things that don't just work, but hold up. Currently hunting for a Software Engineering / ML internship where I can do more of that.
 
